@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0; 
+}
+h1{
+    color: white;
+    display: flex;            
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    margin: 0;      
+
+}
+.divi1{
+    display: flex;
+    text-align: left;
+    justify-content: left;
+    align-items: center;
+}
+input, button, h2, label{
+    margin: 15px;
+    color: blue;
+}
+.href{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    text-align: right;
+}

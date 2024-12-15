@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    justify-content: flex-end; 
+    background-color: black; 
+    padding: 10px;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px; 
+  }
+  nav a:hover {
+    color: red; 
+  }
+  body{
+    background-color: darkslategray;
+  }
